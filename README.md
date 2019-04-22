@@ -1,6 +1,4 @@
 # RUDN__PoorVisionModule
-# PoorVisionModule
----
 
 ## JS
 You need to connect `jQuery` and `jquery.vmPVD.js` to the footer.
