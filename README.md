@@ -17,7 +17,7 @@ $( document ).ready( function(){
 ```
 
 ## Settings
-The module receive object with 2 callback function: activated and deactivated. You can initialized and destroyed other plugins in this callbacks.
+The module receive object with 2 callback function: activated and deactivated. You can initialize and destroy other plugins in this callbacks.
 ```javascript
 $( document ).ready( function(){
    $( '.activate-pvm-module' ).vmPVD(
