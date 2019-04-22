@@ -10,7 +10,7 @@ You need to connect `jQuery` and `jquery.vmPVD.js` to the footer.
 ## Call the plugin
 ```javascript
 $( document ).ready( function(){
-   $( '.activate-pvm-module' ).vmPVD();
+   $( '.activate-pvm-module-button' ).vmPVD();
  });
 ```
 
