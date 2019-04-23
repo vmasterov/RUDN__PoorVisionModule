@@ -6,7 +6,7 @@ You need to connect `jQuery` and `jquery.vmPVD.js` to the footer.
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="jquery.vmPVD.js"></script>
 ```
-## Css
+## CSS
 For styling the special version you should use the spec.css file, that will be automatically include to the page.
 
 ## Call the plugin
